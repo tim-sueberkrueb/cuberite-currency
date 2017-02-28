@@ -17,7 +17,7 @@ This plugin adds the following commands:
 
 * `/account <playername> <set:get:add:sub> <value>` Administrate accounts (admin)
 * `/coins` Display coins (everyone)
-* `/buy <itemname:itemid> <amount>` Buy an item from the virtual marked (everyone)
+* `/buy <itemname:itemid> <amount>` Buy an item from the virtual market (everyone)
 * `/sell` Sell the currently selected item (everyone)
 
 Limitations:
